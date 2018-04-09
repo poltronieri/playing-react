@@ -1,0 +1,25 @@
+.person1 {
+  height: 230px;
+  background: url('../images/1.png') center center no-repeat;
+}
+
+.person2 {
+  height: 230px;
+  background: url('../images/2.png') center center no-repeat;
+}
+
+.person3 {
+  height: 230px;
+
+  background: url('../images/3.png') center center no-repeat;
+}
+
+.person4 {
+  height: 230px;
+  background: url('../images/4.png') center center no-repeat;
+}
+
+.person5 {
+  height: 230px;
+  background: url('../images/5.png') center center no-repeat;
+}
