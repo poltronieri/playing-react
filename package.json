@@ -2,7 +2,7 @@
   "name": "playing-react",
   "version": "1.0.0",
   "description": "simple react+mobx project to show how it works",
-  "main": "index.js",
+  "main": "boot.js",
   "repository": "git@github.com:poltronieri/playing-react.git",
   "author": "poltronieri",
   "license": "MIT",
