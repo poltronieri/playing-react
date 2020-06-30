@@ -10,7 +10,7 @@
     "api": "node mock/server.js"
   },
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.18.1",
     "mobx": "^4.1.1",
     "mobx-react": "^5.0.0",
     "react": "^16.3.1",
